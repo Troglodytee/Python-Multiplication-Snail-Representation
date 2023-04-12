@@ -10,7 +10,7 @@ This is a program that creates a snail representation of multiplication tables.
 3. Run `main.py`
 ## Requirements
 - Python 3.7
-- Python tkinter library
+- Python `tkinter` library
 ## Usage
 You have to type the grid size and the multiplication table.
 
